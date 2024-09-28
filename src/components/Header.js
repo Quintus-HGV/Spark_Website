@@ -34,6 +34,7 @@ const Header = () => {
         <Link to="/">
           <img src="/images/rvce.png" alt="rv logo" className="rvlogo" />
           <img src="/images/spark.png" alt="spark logo" className="sparklogo" />
+          <img src="/images/iucee.png" alt="spark logo" className="sparklogo" />
         </Link>
       </div>
       <nav>

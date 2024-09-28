@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import './Projects.css';
 import { useSpring, animated } from '@react-spring/web';
 
@@ -87,3 +87,13 @@ const Projects = () => {
 };
 
 export default Projects;
+*/
+
+export default function Projects() {
+  return (
+    <div>
+      <h1>Projects Page</h1>
+      <p>Coming soon...</p>
+    </div>
+  );
+}

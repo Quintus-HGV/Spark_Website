@@ -12,7 +12,7 @@ const officeBearers = {
   coreTeam: [
     { name: 'President', title: 'Ashok R, ASE', image: '/images/ashok.png' },
     { name: 'Vice-President', title: 'Nikhitha Sunil, IEM', image: '/images/nikitha.png' },
-    { name: 'Secretary', title: 'Jigyasa Agarwal, CSE (CY)', image: '/images/jigyasa.png' },
+    { name: 'Secretary', title: 'Jigyasa Agrawal, CSE (CY)', image: '/images/jigyasa.png' },
     { name: 'Treasurer', title: 'Harsh Gupta, ISE', image: '/images/harsh.png' },
   ],
   wings: [
