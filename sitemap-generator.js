@@ -1,4 +1,4 @@
-const React = require('react');
+/*const React = require('react');
 const Sitemap = require('react-router-sitemap').default;
 const router = require('./src/App').default;
 
@@ -9,3 +9,4 @@ function generateSitemap() {
 }
 
 generateSitemap();
+"""*/
