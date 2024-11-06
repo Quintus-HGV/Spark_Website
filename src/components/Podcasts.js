@@ -29,7 +29,11 @@ const PodcastPage = () => {
       title: "KNS Experience - Stories, Strategies & Success| K.N. Subramanya | Principal - RVCE",
       embedLink: "https://www.youtube.com/embed/ceAfsPzPQsw?si=_3uARkO6nTySVTPf"
     },
-    // Add more episodes here as they become available
+    {
+      title: "Dr. KS Geetha’s Journey- Challenges, Leadership & Vision |Vice Principal-RV College of Engineering",
+      embedLink: "https://www.youtube.com/embed/BSohvjHTLNw?si=Ihjzh0-gjuKQsR4I"
+    },
+    // Episodes Add maaDi
   ];
 
   const [expandedIndex, setExpandedIndex] = useState(null);
