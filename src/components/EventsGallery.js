@@ -2,6 +2,17 @@ import React, { useState, useEffect } from 'react';
 
 const eventsData = [
   {
+    title: "LinkedIn Launchpad",
+    images: ['/images/events/10.1.jpg', '/images/events/10.2.jpg', '/images/events/10.3.jpg', '/images/events/10.4.jpg'],
+    description: "Basic Beginner Friendly Guide on LinkedIn Profile Making"
+  },
+  /*
+  {
+    title: "Through the eyes of You(th) 2.0",
+    images: ['/images/events/1.1.jpg', '/images/events/1.2.jpg', '/images/events/1.3.jpg', '/images/events/1.4.jpg'],
+    description: "2nd Edition of our Flagship SDG Photography Event"
+  },*/
+  {
     title: "Pratham Tejasotsavam",
     images: ['/images/events/1.1.jpg', '/images/events/1.2.jpg', '/images/events/1.3.jpg', '/images/events/1.4.jpg'],
     description: "One year of our Student Chapter!"

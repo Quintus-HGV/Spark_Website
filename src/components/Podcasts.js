@@ -33,6 +33,10 @@ const PodcastPage = () => {
       title: "Dr. KS Geetha’s Journey- Challenges, Leadership & Vision |Vice Principal-RV College of Engineering",
       embedLink: "https://www.youtube.com/embed/BSohvjHTLNw?si=Ihjzh0-gjuKQsR4I"
     },
+    {
+      title: "Dean Diaries: Laughs, Stories, and Fun Unleashed!🎙️😂|Dr. Shanmukha Nagaraj | Dean Academics - RVCE",
+      embedLink: "https://www.youtube.com/embed/uZfv9dnFVm4?si=iNb7I6RIkDX33x3U"
+    },
     // Episodes Add maaDi
   ];
 
