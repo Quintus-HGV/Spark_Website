@@ -11,7 +11,7 @@ const ContactUs = () => {
         <div className="contact-card">
           <h2>Dr. SHANMUKHA NAGARAJ</h2>
           <p className="role">Faculty Advisor</p>
-          <p className="email">Email: dean.academics@rvce.edu.in</p>
+          <p className="email">Email: shanmukhan@rvce.edu.in</p>
         </div>
         
         <div className="contact-card">

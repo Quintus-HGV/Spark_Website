@@ -6,7 +6,7 @@ const officeBearers = {
   chairman: { name: 'Dr. K N Subramanya', title: 'Principal', image: '/images/princi.jpg' },
   facultyAdvisors: [
     { name: 'Dr. K.S. GEETHA', title: 'Vice Principal', image: '/images/vp.jpeg' },
-    { name: 'Dr. SHANMUKHA NAGARAJ', title: 'Dean Academics', image: '/images/dean.jpg' },
+    { name: 'Dr. SHANMUKHA NAGARAJ', title: 'HoD, Mechanical Dept.', image: '/images/dean.jpg' },
   ],
   facultyCoordinator: { name: 'Dr. PRAPULLA S B', title: 'Assistant Professor, CSE', image: '/images/psb.jpg' },
   coreTeam: [

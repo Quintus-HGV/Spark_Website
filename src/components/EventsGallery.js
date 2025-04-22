@@ -2,6 +2,11 @@ import React, { useState, useEffect } from 'react';
 
 const eventsData = [
   {
+    title: "Razz Security Workshop",
+    images: ['/images/events/11.1.jpg', '/images/events/11.2.jpg', '/images/events/11.3.jpg', '/images/events/11.4.jpg'],
+    description: "Basic Beginner Friendly Guide on LinkedIn Profile Making"
+  },
+  {
     title: "LinkedIn Launchpad",
     images: ['/images/events/10.1.jpg', '/images/events/10.2.jpg', '/images/events/10.3.jpg', '/images/events/10.4.jpg'],
     description: "Basic Beginner Friendly Guide on LinkedIn Profile Making"
@@ -42,7 +47,7 @@ const eventsData = [
 
   {
     title: "EmpowHER - Women's Day 2024",
-    images: ['/images/events/6.1.jpg', '/images/events/6.2.jpg', '/images/events/6.3.jpg', 'images/events/6.4.jpg'],
+    images: ['/images/events/6.1.JPG', '/images/events/6.2.JPG', '/images/events/6.3.JPG', 'images/events/6.4.JPG'],
     description: "EmpowHER Women's day Event organised in RVCE"
   },
 

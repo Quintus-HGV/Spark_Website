@@ -38,7 +38,7 @@ const activities = [
   },
 
   {
-    image: '/images/IV3.jpg',
+    image: '/images/i3.jpg',
     title: 'Infosys Campus Visit',
     points: ['Exploring the Infosys Campus', 'Connecting with Industry Experts'],
     details: 'A visit where innovation thrives, knowledge flows, and dreams take shape.',

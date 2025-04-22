@@ -37,6 +37,15 @@ const PodcastPage = () => {
       title: "Dean Diaries: Laughs, Stories, and Fun Unleashed!🎙️😂|Dr. Shanmukha Nagaraj | Dean Academics - RVCE",
       embedLink: "https://www.youtube.com/embed/uZfv9dnFVm4?si=iNb7I6RIkDX33x3U"
     },
+    {
+      title: "Major Speaks–From Army to Administration | Unfiltered Leadership & Impact | Maj.Raghavendra C [Retd]",
+      embedLink: "https://www.youtube.com/embed/7cPpynVm8LE?si=wXuDGh7HmrMlBbko"
+    },
+    {
+      title: "Molecules meet Metaphors | A tale of ART and Academia ft. Dr Rajalakshmi Mudbidre| RVCE",
+      embedLink: "https://www.youtube.com/embed/KA-sEiwCFS0?si=chQB4CzVLCObOCc-"
+    },
+
     // Episodes Add maaDi
   ];
 
